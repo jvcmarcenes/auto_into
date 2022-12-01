@@ -20,5 +20,3 @@ fn main() {
 	takes_whatever('a'); // char
 }
 ```
-
-oh, and in `#[into] _: String`, the `_` is a pattern, not an identifier, we support destructuring too.
