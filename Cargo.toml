@@ -2,6 +2,7 @@
 name = "auto_into"
 version = "0.1.0"
 edition = "2021"
+description = "a rust macro that provides (slight) ergonomics for writing functions"
 authors = ["João Vitor Costa Marcenes <jvcmv.jvcmarcenes@gmail.com>"]
 repository = "https://github.com/jvcmarcenes/auto_into"
 readme = "README.md"
